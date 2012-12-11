@@ -27,3 +27,10 @@ PYTHONNDONTWRITEBYTECODE= python setup.py install --root=%{buildroot}
 %{_bindir}/davserver
 %{py_sitedir}/*
 %doc README
+
+
+%changelog
+* Sat Apr 28 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.9.8-1
++ Revision: 794282
+- imported package python-webdav
+
