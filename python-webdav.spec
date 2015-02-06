@@ -3,7 +3,7 @@
 Name:		python-webdav
 Summary:	Python WebDAV library
 Version:	0.9.8
-Release:	1
+Release:	2
 License:	GPLv2
 Group:		Development/Python
 URL:		http://code.google.com/p/pywebdav/
