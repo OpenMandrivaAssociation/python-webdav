@@ -6,7 +6,7 @@ Version:	0.9.8
 Release:	2
 License:	GPLv2
 Group:		Development/Python
-URL:		http://code.google.com/p/pywebdav/
+URL:		https://code.google.com/p/pywebdav/
 Source0:	http://pywebdav.googlecode.com/files/%{pyname}-%{version}.tar.gz
 BuildRequires:	python-setuptools
 BuildArch:	noarch
